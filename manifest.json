@@ -8,19 +8,19 @@
     "orientation": "portrait-primary",
     "icons": [
       {
-        "src": "/images/icons/telefone.png",
+        "src": "./images/icons/telefone.png",
         "type": "image/png", "sizes": "225x225"
       }
     ],
     "screenshots": [
     {
-      "src": "/images/screenshots/desktop.png",
+      "src": "./images/screenshots/desktop.png",
       "sizes": "1280x760",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "/images/screenshots/mobile.png",
+      "src": "./images/screenshots/mobile.png",
       "sizes": "418x760",
       "type": "image/png"
     }
